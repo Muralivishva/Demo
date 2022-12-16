@@ -14,3 +14,5 @@ const  sub1=20
 const sub2=10
 const subtrac= sub1-sub2
 console.log(subtrac)
+console.log(subtrac)
+
