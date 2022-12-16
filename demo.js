@@ -4,7 +4,7 @@ const c=a+b
 console.log(c, 'output')
 
 const first=34
-const second=65
+const second=60
 const multiply=first*second
 console.log(multiply)
 
