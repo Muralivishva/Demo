@@ -18,4 +18,8 @@ console.log(subtrac)
 console.log(subtrac)
 console.log(subtrac)
 console.log(first)
-console.log(multiply)
+console.log(multiply)   
+
+const a1=34
+const a2=67
+const c1=a1/a2
